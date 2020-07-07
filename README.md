@@ -20,5 +20,7 @@ I designed the board using the free version of EAGLE (2-layer, less than 100mm o
 X- and Y-axes).  The gerbers are included in this repository, including the files required
 by JLCPCB's SMT assembly forms, in case you want to get your own set made.
 
+The board measures 37mm x 22mm (plus USB plug).  Here is a picture:
+
 ![PC Board is 37mm x 22mm](PCE-SNAC.jpg)
 
